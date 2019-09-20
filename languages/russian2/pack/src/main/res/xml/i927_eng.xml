@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhysicalTranslation QwertyTranslation="qwertyuiopasdfghjklzxcvbnm">
+	<SequenceMapping keySequence="39" altModifier="true" targetChar="("/>
+	<SequenceMapping keySequence="39,39" altModifier="true" targetChar="{"/>
+	<SequenceMapping keySequence="39,39,39" altModifier="true" targetChar="&lt;"/>
+	<SequenceMapping keySequence="39,39,39,39" altModifier="true" targetChar="["/>
+
+	<SequenceMapping keySequence="40" altModifier="true" targetChar=")"/>
+	<SequenceMapping keySequence="40,40" altModifier="true" targetChar="}"/>
+	<SequenceMapping keySequence="40,40,40" altModifier="true" targetChar="&gt;"/>
+	<SequenceMapping keySequence="40,40,40,40" altModifier="true" targetChar="]"/>
+
+	<SequenceMapping keySequence="53" altModifier="true" targetChar="6"/>
+	<SequenceMapping keySequence="53,53" altModifier="true" targetChar="^"/>
+
+	<SequenceMapping keySequence="56" shiftModifier="true" targetChar="|"/>
+</PhysicalTranslation>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhysicalTranslation QwertyTranslation="йцукенгшзхфывапролдячсмить">
+    <!--
+    <keys>
+        <key code="48">е</key>
+        <key code="48">ё</key>
+    </keys>
+
+    <keys>
+        <key code="56">э</key>
+        <key code="56">.</key>
+    </keys>
+	
+	 <keys>
+        <key code="75">?</key>
+        <key code="75">,</key>
+    </keys>
+	
+	<keys>
+        <key code="37">ш</key>
+        <key code="37">щ</key>
+    </keys>
+
+    <keys>
+        <key code="41">ь</key>
+        <key code="41">ъ</key>
+    </keys>
+
+    <keys>
+        <key code="40">д</key>
+        <key code="40">ж</key>
+    </keys>
+
+    <keys>
+        <key code="55">б</key>
+        <key code="55">ю</key>
+        <key code="55">,</key>
+    </keys>
+
+    <keys>
+        <key code="39" char="л">
+            <altChar char="(" system="(" />
+        </key>
+        <key code="39" char="л">
+            <altChar char="{" system="{" />
+        </key>
+        <key code="39" char="л">
+            <altChar char="&lt;" system="&lt;" />
+        </key>
+        <key code="39" char="л">
+            <altChar char="[" system="[" />
+        </key>
+    </keys>
+
+    <keys>
+        <key code="40" char="д">
+            <altChar char=")" system=")" />
+        </key>
+        <key code="40" char="ж">
+            <altChar char="}" system="}" />
+        </key>
+        <key code="40" char="д">
+            <altChar char=">" system=">" />
+        </key>
+        <key code="40" char="ж">
+            <altChar char="]" system="]" />
+        </key>
+    </keys>
+    -->
+    <SequenceMapping keySequence="48,48" targetChar="ё"/>
+
+    <SequenceMapping keySequence="56" targetChar="э"/>
+    <SequenceMapping keySequence="56,56" targetChar="."/>
+
+    <SequenceMapping keySequence="37,37" targetChar="щ"/>
+
+    <SequenceMapping keySequence="41,41" targetChar="ъ"/>
+
+    <SequenceMapping keySequence="40,40" targetChar="ж"/>
+
+    <SequenceMapping keySequence="55" targetChar="б"/>
+    <SequenceMapping keySequence="55,55" targetChar="ю"/>
+    <SequenceMapping keySequence="55,55,55" targetChar=","/>
+</PhysicalTranslation>

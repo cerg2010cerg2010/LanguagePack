@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="russian2_keyboard_name">Русский</string>
+    <string name="russian2_keyboard_name_cg">Русский (Captivate Glide)</string>
+    <string name="russian2_keyboard_name_cg_en">Английский (Captivate Glide)</string>
     <string name="russian2_keyboard_extra_rows">Русский с расширенным рядом</string>
     <string name="russian2_ph_keyboard">Русский Фонетический</string>
     <string name="russian2_ph_keyboard_extra_rows">Русский Фонетический с расширенным рядом</string>
